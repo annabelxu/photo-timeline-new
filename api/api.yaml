@@ -1,0 +1,5 @@
+runtime: python39
+service: api
+
+env_variables:
+  CLOUD_STORAGE_BUCKET: photo-timeline-shared-new

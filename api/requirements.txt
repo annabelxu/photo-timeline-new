@@ -1,0 +1,6 @@
+Flask
+gunicorn==19.9.0
+grpcio>=1.2.0
+google-cloud-datastore
+google-cloud-storage
+
